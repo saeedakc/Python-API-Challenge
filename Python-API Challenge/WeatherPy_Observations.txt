@@ -1,0 +1,13 @@
+For Part I, you must include a written description of three observable trends based on the data.
+
+
+Based on the data, I observe that concerning the city latitude vs max temperature that, 
+while temperature is high at 0 degrees latitude, it gets higher at 20 to 40 degrees latitude. 
+
+As for humidity, it seems that 0 degrees latitude has more clustering at high humidity, while 
+the higher 20 to 40 degrees latitude carries a range of humidity. 
+
+At cloudiness, there does not seem to be a trend at 0 degrees latitude, 
+the same for wind speed at 0 degrees latitude. 
+
+
